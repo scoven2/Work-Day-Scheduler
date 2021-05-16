@@ -10,14 +10,14 @@ Hourly workday schedule that allows the user to create new events every hour and
 ![screenshots](assets/Screenshot.png)
 
 ## Utilizes
-HTML
-CSS
-JavaScript
+* HTML
+* CSS
+* JavaScript
 
 ## APIs
-Bootstrap
-JQuery
-Luxon
+* Bootstrap
+* JQuery
+* Luxon
 
 ## License:
 MIT License
